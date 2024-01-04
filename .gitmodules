@@ -1,3 +1,7 @@
 [submodule "VUE-COMPOSTION/vue-composition"]
 	path = VUE-COMPOSTION/vue-composition
 	url = https://github.com/dominicjohnnybosco/vue.js-3-tutorial.git
+[submodule "VUE-COMPONENTS/vue-components"]
+	path = VUE-COMPONENTS/vue-components
+	url = https://github.com/dominicjohnnybosco/vue.js-3-tutorial.git
+	branch = -f
